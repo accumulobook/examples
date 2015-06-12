@@ -1,2 +1,4 @@
 target
 *.pyc
+*.iml
+.idea
